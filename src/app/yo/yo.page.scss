@@ -1,0 +1,36 @@
+
+p {
+    margin: 25px;
+    text-align: justify;
+    line-height: 35px;
+   
+    font-family:  var(--ion-font-family, inherit);;
+}
+h3 {
+    text-align: center;
+    align-content: center;
+    margin-left: 400px;
+    font-family:  var(--ion-font-family, inherit);;
+
+}
+.item-name {
+    background: #9DEFF9;
+    text-align: center;
+}
+
+.container-img  {
+    margin-top: 25px;
+    margin: auto;
+    width: 330px;
+    height: 250px;
+}
+
+img {
+    margin-top: 25px;
+    width: 330px;
+    height: 220px;
+}
+
+ion-content {
+    background-color: #FEEDCA;
+}

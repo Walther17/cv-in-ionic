@@ -1,0 +1,7 @@
+{
+  "name": "CVWJOM",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
